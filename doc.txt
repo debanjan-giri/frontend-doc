@@ -59,6 +59,7 @@ Optimization
     .Lazy loading components with React.lazy and Suspense.
 
 ----------------theory------------------
+learn all config file present in react
 understanding how React apps are bundled
 docker and nginx for react deployment
 how react works under the hood
