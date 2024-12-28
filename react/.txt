@@ -1,13 +1,13 @@
 React Fundamentals : ✨
 
 ----------------React----------------
-Component-based architecture
-jsx
-Components and hoc and pure
-Props
+Component-based architecture ✨
+jsx ✨
+hoc and pure ✨
+Props ✨
 State
 Event Handling
-Conditional Rendering
+Conditional Rendering ✨
 Lists and Keys
 component Lifecycle
 Hooks and Custom Hooks
