@@ -3,7 +3,7 @@ React Fundamentals : ✨
 ----------------React----------------
 Component-based architecture ✨
 jsx ✨
-hoc and pure ✨
+hoc and pure ✨ 
 Props ✨
 State
 Event Handling
